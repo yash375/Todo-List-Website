@@ -10,4 +10,3 @@ SCREENSHOT
 ![contact us page](https://user-images.githubusercontent.com/78398190/151489720-3cd69768-0675-4116-b54d-7edadf3253be.png)
 ![signup page](https:
 ![main page](https://user-images.githubusercontent.com/78398190/151489732-5c419d17-71a7-4545-a85e-ba1c57923dee.png)
-//user-images.githubusercontent.com/78398190/151489726-422aa015-bde4-4f76-8bc9-f4cb883bf78b.png)
